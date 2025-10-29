@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: svc-pod 
   labels:
-    app: test
+    app: test-1
 spec:
   containers: 
     - name: test-co 
